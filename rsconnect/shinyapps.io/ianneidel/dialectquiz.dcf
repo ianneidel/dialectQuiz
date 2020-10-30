@@ -1,0 +1,12 @@
+name: dialectquiz
+title: dialectquiz
+username:
+account: ianneidel
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3120986
+bundleId: 3799652
+url: https://ianneidel.shinyapps.io/dialectquiz/
+when: 1604042157.97127
+asMultiple: FALSE
+asStatic: FALSE

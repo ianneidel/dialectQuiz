@@ -1,0 +1,13 @@
+name: personaldialectquiz
+title: personaldialectquiz
+username:
+account: ianneidel
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3120250
+bundleId: 3796538
+url: https://ianneidel.shinyapps.io/personaldialectquiz/
+when: 1603976706.79224
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data
